@@ -1,4 +1,5 @@
 $(function () {
+    console.log("kakis");
     $.get("./arts", writingsFiller);
 
     function writingsFiller(allTheWritings) {
