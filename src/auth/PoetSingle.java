@@ -6,17 +6,17 @@ import java.util.List;
 /**
  * Created by bodor on 2017.04.21..
  */
-public class PoetSingle {
+class PoetSingle {
 
     private static PoetSingle ourInstance = new PoetSingle();
 
     private List<Poet> poets = new ArrayList<>();
 
-    public static PoetSingle getInstance() {
+    static PoetSingle getInstance() {
         return ourInstance;
     }
 
-    public List<Poet> getPoets() {
+    List<Poet> getPoets() {
         return poets;
     }
 
@@ -34,10 +34,10 @@ public class PoetSingle {
         poet.setUser("petofi");
         poet.setPw("sandor");
         Art art = new Art();
-        art.setTitle("vers0");
+        art.setTitle("Tündérálom");
         art.setPath("petofi/valami0.txt");
-        art.setPublishDate("xxxx.xx.xx");
-        List<Art> arts = new ArrayList<Art>();
+        art.setPublishDate("Szalkszentmárton, 1846. február 20.");
+        List<Art> arts = new ArrayList<>();
         arts.add(art);
         poet.setArts(arts);
         poets.add(poet);
@@ -48,7 +48,7 @@ public class PoetSingle {
         poet.setLastName("Arany");
         poet.setUser("arany");
         poet.setPw("janos");
-        List<Art> arts = new ArrayList<Art>();
+        List<Art> arts = new ArrayList<>();
         Art art = new Art();
         art.setTitle("vers0");
         art.setPath("arany/valami0.txt");
@@ -69,7 +69,7 @@ public class PoetSingle {
         poet.setLastName("Jókai");
         poet.setUser("jokai");
         poet.setPw("mor");
-        List<Art> arts = new ArrayList<Art>();
+        List<Art> arts = new ArrayList<>();
         Art art = new Art();
         art.setTitle("vers0");
         art.setPath("jokai/valami0.txt");

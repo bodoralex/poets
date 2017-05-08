@@ -9,6 +9,7 @@
 <html>
 <head>
     <title>Login</title>
+    <link rel="stylesheet" href="${pageContext.request.contextPath}/index.css">
 </head>
 <body>
 
@@ -20,10 +21,29 @@
 
 <form action="${pageContext.request.contextPath}/auth" method="post">
     <input name="username" placeholder="username" value="arany">
-    <%--TODO kivenni!--%>
+
     <input name="password" type="password" placeholder="password" value="janos">
     <input type="submit" value="Login">
 </form>
+
+<table>
+    <tr>
+        <th>user</th>
+        <th>pw</th>
+    </tr>
+    <tr>
+        <td>arany</td>
+        <td>janos</td>
+    </tr>
+    <tr>
+        <td>jokai</td>
+        <td>mor</td>
+    </tr>
+    <tr>
+        <td>petofi</td>
+        <td>sandor</td>
+    </tr>
+</table>
 
 <%  try {
         if (!((boolean) request.getAttribute("success"))) {

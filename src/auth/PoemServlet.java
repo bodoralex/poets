@@ -33,12 +33,12 @@ public class PoemServlet extends HttpServlet {
 
         PrintWriter writer = response.getWriter();
         List<Art> arts = ((Poet) request.getSession().getAttribute("user")).getArts();
-        if(request.getRequestURI().equals("/arts")){
-            Gson gson = new Gson();
-            System.out.println(arts);
 
-            //writer.print(gson.toJson(arts));
-            writer.print("[{\"title\":\"title\", \"publishDate\":\"tegnap\", \"path\":\"mögötted\"}]");
-        }
+        Gson gson = new Gson();
+        System.out.println(arts);
+
+        writer.print(gson.toJson(arts));
+        //writer.print("[{\"title\":\"title\", \"publishDate\":\"tegnap\", \"path\":\"mögötted\"}]");
     }
 }
+

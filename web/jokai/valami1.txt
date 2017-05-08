@@ -1,73 +1,60 @@
-Párduczos apák! és minden párducz nélkül
-Megszületett fiak, tekintsetek széllyel.
-A kik itt laktok a boldog Kanahánban,
-Mely, mint mondják, egykor folyott mézzel, téjjel.
-- Bizony mézzel, téjjel!
-
-Be sok ékes város, be sok csinos helység
-Emelkedett e szép darab földön szerte.
-A hány palota van, ha azt megolvasnák:
-Fölmenne a száma talán százezerre:
-- Bizony százezerre.
-
-Várat is épiténk, a mennyi csak kellett.
-Igen sok nem jó már, csupán kisértetnek.
-A mi pedig megvan, roszul kamatozik,
-Mert haszonbért tőle nem igen fizetnek -
-- Bizony nem fizetnek.
-
-Épiténk odakinn, jó Pest város végén,
-Nagyszerű palotát, szép tágas termekkel;
-Katonát növelő iskolának valót,
-Mintha azt a magyar nem tudná, hogyan kell?
-- Bizony tudja, hogy kell!
-
-Városnak, megyének van mindenütt háza,
-Nem jó, ha a törvény az ég alatt lenne,
-Megáznék, megfáznék, ellopnák, vagy épen
-Hozzátennének - és kár történnék benne.
-- Bizony nem jó lenne.
-
-Mulatságra való házunk is van már sok.
-Szinházak, táncztermek, lovarkör, sercsarnok,
-Külön épületet kaptak a lovak is.
-(Elismerjük róluk, hogy ők nemes barmok)
-- Bizony nemes barmok.
-
-Vannak házaik a gonosztevőknek is:
-Házgyujtogatónak, gyilkosnak, tolvajnak.
-Bár azoknak bokros érdemű lakói
-Nem igen örülnek azon, hogy ott vannak,
-- Bizony nem ők annak!
-
-Sőt már a bolondok számára is épül
-Az országos nagy ház, (el se férnek ebben;
-Még mikor csordultig tele lesz bolonddal,
-Akkor is odakinn lesznek sokkal többen,
-- Bizony sokkal többen).
-
-Boldog, boldogtalan maga ura immár.
-Mars, Mercur és Bacchus fel van palotázva,
-Bűnösnek, bolondnak van díszes hajléka.
-Csak a tudománynak nincsen nálunk háza
-- Bizony nincs még háza.
-
-Pedig ez a fegyver! pedig ez a törvény,
-Ez nevel jó embert és igaz honpolgárt,
-Ez alapja minden nemzet életének
-És mégis mindeddig senki sem gondolt rá -
-- Bizony nem gondolt rá.
-
-Hogy még sincs otthona, a hová gondterhes
-Homlokát lehajtsa, mind e mai napig.
-Mások udvarán él, mint valami jött-ment:
-Keserű, keserves zsellérségben lakik.
-- Bizony csak ugy lakik.
-
-No de majd máskép lesz! Hozzá fogunk végre
-S a mit elmulasztánk, azt most helyre ütjük;
-Áldozatfillérek milliókká nőnek:
-S tudományunk úri házát felépitjük,
+<p>Párduczos apák! és minden párducz nélkül<br>
+Megszületett fiak, tekintsetek széllyel.<br>
+A kik itt laktok a boldog Kanahánban,<br>
+Mely, mint mondják, egykor folyott mézzel, téjjel.<br>
+- Bizony mézzel, téjjel!</p>
+<p>Be sok ékes város, be sok csinos helység<br>
+Emelkedett e szép darab földön szerte.<br>
+A hány palota van, ha azt megolvasnák:<br>
+Fölmenne a száma talán százezerre:<br>
+- Bizony százezerre.</p>
+<p>Várat is épiténk, a mennyi csak kellett.<br>
+Igen sok nem jó már, csupán kisértetnek.<br>
+A mi pedig megvan, roszul kamatozik,<br>
+Mert haszonbért tőle nem igen fizetnek -<br>
+- Bizony nem fizetnek.</p>
+<p>Épiténk odakinn, jó Pest város végén,<br>
+Nagyszerű palotát, szép tágas termekkel;<br>
+Katonát növelő iskolának valót,<br>
+Mintha azt a magyar nem tudná, hogyan kell?<br>
+- Bizony tudja, hogy kell!</p>
+<p>Városnak, megyének van mindenütt háza,<br>
+Nem jó, ha a törvény az ég alatt lenne,<br>
+Megáznék, megfáznék, ellopnák, vagy épen<br>
+Hozzátennének - és kár történnék benne.<br>
+- Bizony nem jó lenne.</p>
+<p>Mulatságra való házunk is van már sok.<br>
+Szinházak, táncztermek, lovarkör, sercsarnok,<br>
+Külön épületet kaptak a lovak is.<br>
+(Elismerjük róluk, hogy ők nemes barmok)<br>
+- Bizony nemes barmok.</p>
+<p>Vannak házaik a gonosztevőknek is:<br>
+Házgyujtogatónak, gyilkosnak, tolvajnak.<br>
+Bár azoknak bokros érdemű lakói<br>
+Nem igen örülnek azon, hogy ott vannak,<br>
+- Bizony nem ők annak!</p>
+<p>Sőt már a bolondok számára is épül<br>
+Az országos nagy ház, (el se férnek ebben;<br>
+Még mikor csordultig tele lesz bolonddal,<br>
+Akkor is odakinn lesznek sokkal többen,<br>
+- Bizony sokkal többen).</p>
+<p>Boldog, boldogtalan maga ura immár.<br>
+Mars, Mercur és Bacchus fel van palotázva,<br>
+Bűnösnek, bolondnak van díszes hajléka.<br>
+Csak a tudománynak nincsen nálunk háza<br>
+- Bizony nincs még háza.</p>
+<p>Pedig ez a fegyver! pedig ez a törvény,<br>
+Ez nevel jó embert és igaz honpolgárt,<br>
+Ez alapja minden nemzet életének<br>
+És mégis mindeddig senki sem gondolt rá -<br>
+- Bizony nem gondolt rá.</p>
+<p>Hogy még sincs otthona, a hová gondterhes<br>
+Homlokát lehajtsa, mind e mai napig.<br>
+Mások udvarán él, mint valami jött-ment:<br>
+Keserű, keserves zsellérségben lakik.<br>
+- Bizony csak ugy lakik.</p>
+<p>No de majd máskép lesz! Hozzá fogunk végre<br>
+S a mit elmulasztánk, azt most helyre ütjük;<br>
+Áldozatfillérek milliókká nőnek:<br>
+S tudományunk úri házát felépitjük,<br>
 - Bizony felépitjük.
-
-(1859)

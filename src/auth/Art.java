@@ -8,13 +8,7 @@ public class Art {
     private String title;
     private String publishDate;
 
-    public Art(String path, String title, String publishDate) {
-        this.path = path;
-        this.title = title;
-        this.publishDate = publishDate;
-    }
-
-    public Art() {
+    Art() {
     }
 
     @Override
@@ -26,19 +20,19 @@ public class Art {
                 '}';
     }
 
-    public String getPublishDate() {
+    String getPublishDate() {
         return publishDate;
     }
 
-    public void setPublishDate(String publishDate) {
+    void setPublishDate(String publishDate) {
         this.publishDate = publishDate;
     }
 
-    public String getPath() {
+    String getPath() {
         return path;
     }
 
-    public void setPath(String path) {
+    void setPath(String path) {
         this.path = path;
     }
 
@@ -46,7 +40,7 @@ public class Art {
         return title;
     }
 
-    public void setTitle(String title) {
+    void setTitle(String title) {
         this.title = title;
     }
 }

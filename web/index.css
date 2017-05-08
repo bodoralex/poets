@@ -1,3 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
 div.container {
     width: 100%;
 }
@@ -17,18 +22,12 @@ nav {
     padding: 1em;
 }
 
-nav ul {
-    padding: 0;
-    /*text-decoration: none;*/
-}
-
-
 article {
     margin-left: 120px;
     padding: 1em;
     overflow: hidden;
 }
 
-#logout{
+td, #logout {
     border: 1px solid black;
 }
